@@ -89,6 +89,3 @@ jupyter notebook notebooks/az03_homework.ipynb
 
 Email: [georgy.belyanin@gmail.com](mailto:georgy.belyanin@gmail.com)
 
----
-
-Проект создан с использованием Cursor IDE и Claude AI.
